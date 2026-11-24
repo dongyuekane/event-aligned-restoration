@@ -1,0 +1,1954 @@
+[
+  {
+    "split": "development",
+    "config": {
+      "case_id": "development_00",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 20,
+      "diagnostic_s": 5,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 105,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        12
+      ],
+      [
+        1,
+        65,
+        70,
+        1
+      ],
+      [
+        1,
+        115,
+        120,
+        7
+      ],
+      [
+        2,
+        -1,
+        -1,
+        1
+      ],
+      [
+        3,
+        -1,
+        -1,
+        7
+      ]
+    ],
+    "noise": 1
+  },
+  {
+    "split": "development",
+    "config": {
+      "case_id": "development_01",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 10,
+      "diagnostic_s": 10,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 105,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        12
+      ],
+      [
+        1,
+        65,
+        70,
+        9
+      ],
+      [
+        1,
+        115,
+        120,
+        6
+      ],
+      [
+        2,
+        -1,
+        -1,
+        10
+      ],
+      [
+        3,
+        -1,
+        -1,
+        2
+      ]
+    ],
+    "noise": 1
+  },
+  {
+    "split": "development",
+    "config": {
+      "case_id": "development_02",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 35,
+      "diagnostic_s": 5,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 45,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        8
+      ],
+      [
+        1,
+        45,
+        50,
+        9
+      ],
+      [
+        1,
+        95,
+        100,
+        6
+      ],
+      [
+        2,
+        -1,
+        -1,
+        11
+      ],
+      [
+        3,
+        -1,
+        -1,
+        9
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "development",
+    "config": {
+      "case_id": "development_03",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 5,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 105,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        8
+      ],
+      [
+        1,
+        45,
+        50,
+        6
+      ],
+      [
+        1,
+        95,
+        100,
+        10
+      ],
+      [
+        2,
+        -1,
+        -1,
+        9
+      ],
+      [
+        3,
+        -1,
+        -1,
+        4
+      ]
+    ],
+    "noise": 1
+  },
+  {
+    "split": "development",
+    "config": {
+      "case_id": "development_04",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 20,
+      "diagnostic_s": 15,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 105,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        2
+      ],
+      [
+        1,
+        25,
+        30,
+        10
+      ],
+      [
+        1,
+        75,
+        80,
+        7
+      ],
+      [
+        2,
+        -1,
+        -1,
+        2
+      ],
+      [
+        3,
+        -1,
+        -1,
+        5
+      ]
+    ],
+    "noise": 2
+  },
+  {
+    "split": "development",
+    "config": {
+      "case_id": "development_05",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 15,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 105,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        8
+      ],
+      [
+        1,
+        25,
+        30,
+        1
+      ],
+      [
+        1,
+        75,
+        80,
+        8
+      ],
+      [
+        2,
+        -1,
+        -1,
+        1
+      ],
+      [
+        3,
+        -1,
+        -1,
+        9
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "development",
+    "config": {
+      "case_id": "development_06",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 20,
+      "diagnostic_s": 25,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 75,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        2
+      ],
+      [
+        1,
+        65,
+        70,
+        12
+      ],
+      [
+        1,
+        115,
+        120,
+        5
+      ],
+      [
+        2,
+        -1,
+        -1,
+        8
+      ],
+      [
+        3,
+        -1,
+        -1,
+        6
+      ]
+    ],
+    "noise": 1
+  },
+  {
+    "split": "development",
+    "config": {
+      "case_id": "development_07",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 10,
+      "diagnostic_s": 25,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 45,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        2
+      ],
+      [
+        1,
+        45,
+        50,
+        7
+      ],
+      [
+        1,
+        95,
+        100,
+        7
+      ],
+      [
+        2,
+        -1,
+        -1,
+        5
+      ],
+      [
+        3,
+        -1,
+        -1,
+        3
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_00",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 10,
+      "diagnostic_s": 25,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 105,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        2
+      ],
+      [
+        1,
+        25,
+        30,
+        6
+      ],
+      [
+        1,
+        75,
+        80,
+        5
+      ],
+      [
+        2,
+        -1,
+        -1,
+        3
+      ],
+      [
+        3,
+        -1,
+        -1,
+        7
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_01",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 5,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 105,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        9
+      ],
+      [
+        1,
+        65,
+        70,
+        12
+      ],
+      [
+        1,
+        115,
+        120,
+        1
+      ],
+      [
+        2,
+        -1,
+        -1,
+        6
+      ],
+      [
+        3,
+        -1,
+        -1,
+        11
+      ]
+    ],
+    "noise": 1
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_02",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 35,
+      "diagnostic_s": 10,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 75,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        4
+      ],
+      [
+        1,
+        65,
+        70,
+        12
+      ],
+      [
+        1,
+        115,
+        120,
+        9
+      ],
+      [
+        2,
+        -1,
+        -1,
+        3
+      ],
+      [
+        3,
+        -1,
+        -1,
+        5
+      ]
+    ],
+    "noise": 2
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_03",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 5,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 45,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        10
+      ],
+      [
+        1,
+        65,
+        70,
+        11
+      ],
+      [
+        1,
+        115,
+        120,
+        1
+      ],
+      [
+        2,
+        -1,
+        -1,
+        9
+      ],
+      [
+        3,
+        -1,
+        -1,
+        2
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_04",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 35,
+      "diagnostic_s": 25,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 105,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        12
+      ],
+      [
+        1,
+        65,
+        70,
+        3
+      ],
+      [
+        1,
+        115,
+        120,
+        4
+      ],
+      [
+        2,
+        -1,
+        -1,
+        12
+      ],
+      [
+        3,
+        -1,
+        -1,
+        7
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_05",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 5,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 45,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        12
+      ],
+      [
+        1,
+        45,
+        50,
+        9
+      ],
+      [
+        1,
+        95,
+        100,
+        12
+      ],
+      [
+        2,
+        -1,
+        -1,
+        5
+      ],
+      [
+        3,
+        -1,
+        -1,
+        6
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_06",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 25,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 45,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        2
+      ],
+      [
+        1,
+        25,
+        30,
+        1
+      ],
+      [
+        1,
+        75,
+        80,
+        10
+      ],
+      [
+        2,
+        -1,
+        -1,
+        3
+      ],
+      [
+        3,
+        -1,
+        -1,
+        4
+      ]
+    ],
+    "noise": 1
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_07",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 10,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 45,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        3
+      ],
+      [
+        1,
+        45,
+        50,
+        1
+      ],
+      [
+        1,
+        95,
+        100,
+        9
+      ],
+      [
+        2,
+        -1,
+        -1,
+        10
+      ],
+      [
+        3,
+        -1,
+        -1,
+        10
+      ]
+    ],
+    "noise": 1
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_08",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 10,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 105,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        4
+      ],
+      [
+        1,
+        25,
+        30,
+        12
+      ],
+      [
+        1,
+        75,
+        80,
+        3
+      ],
+      [
+        2,
+        -1,
+        -1,
+        8
+      ],
+      [
+        3,
+        -1,
+        -1,
+        4
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_09",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 15,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 75,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        12
+      ],
+      [
+        1,
+        65,
+        70,
+        5
+      ],
+      [
+        1,
+        115,
+        120,
+        1
+      ],
+      [
+        2,
+        -1,
+        -1,
+        5
+      ],
+      [
+        3,
+        -1,
+        -1,
+        1
+      ]
+    ],
+    "noise": 1
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_10",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 35,
+      "diagnostic_s": 5,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 75,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        8
+      ],
+      [
+        1,
+        25,
+        30,
+        3
+      ],
+      [
+        1,
+        75,
+        80,
+        6
+      ],
+      [
+        2,
+        -1,
+        -1,
+        11
+      ],
+      [
+        3,
+        -1,
+        -1,
+        9
+      ]
+    ],
+    "noise": 2
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_11",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 15,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 75,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        3
+      ],
+      [
+        1,
+        45,
+        50,
+        10
+      ],
+      [
+        1,
+        95,
+        100,
+        7
+      ],
+      [
+        2,
+        -1,
+        -1,
+        6
+      ],
+      [
+        3,
+        -1,
+        -1,
+        2
+      ]
+    ],
+    "noise": 1
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_12",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 10,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 45,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        8
+      ],
+      [
+        1,
+        65,
+        70,
+        4
+      ],
+      [
+        1,
+        115,
+        120,
+        2
+      ],
+      [
+        2,
+        -1,
+        -1,
+        11
+      ],
+      [
+        3,
+        -1,
+        -1,
+        12
+      ]
+    ],
+    "noise": 1
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_13",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 10,
+      "diagnostic_s": 25,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 105,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        3
+      ],
+      [
+        1,
+        25,
+        30,
+        12
+      ],
+      [
+        1,
+        75,
+        80,
+        4
+      ],
+      [
+        2,
+        -1,
+        -1,
+        8
+      ],
+      [
+        3,
+        -1,
+        -1,
+        6
+      ]
+    ],
+    "noise": 2
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_14",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 20,
+      "diagnostic_s": 15,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 45,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        6
+      ],
+      [
+        1,
+        25,
+        30,
+        7
+      ],
+      [
+        1,
+        75,
+        80,
+        2
+      ],
+      [
+        2,
+        -1,
+        -1,
+        2
+      ],
+      [
+        3,
+        -1,
+        -1,
+        11
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_15",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 10,
+      "diagnostic_s": 5,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 45,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        6
+      ],
+      [
+        1,
+        45,
+        50,
+        3
+      ],
+      [
+        1,
+        95,
+        100,
+        1
+      ],
+      [
+        2,
+        -1,
+        -1,
+        3
+      ],
+      [
+        3,
+        -1,
+        -1,
+        9
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_16",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 5,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 75,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        3
+      ],
+      [
+        1,
+        65,
+        70,
+        5
+      ],
+      [
+        1,
+        115,
+        120,
+        2
+      ],
+      [
+        2,
+        -1,
+        -1,
+        2
+      ],
+      [
+        3,
+        -1,
+        -1,
+        6
+      ]
+    ],
+    "noise": 2
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_17",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 10,
+      "diagnostic_s": 5,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 45,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        10
+      ],
+      [
+        1,
+        25,
+        30,
+        11
+      ],
+      [
+        1,
+        75,
+        80,
+        3
+      ],
+      [
+        2,
+        -1,
+        -1,
+        7
+      ],
+      [
+        3,
+        -1,
+        -1,
+        2
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_18",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 50,
+      "diagnostic_s": 15,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 75,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        8
+      ],
+      [
+        1,
+        45,
+        50,
+        8
+      ],
+      [
+        1,
+        95,
+        100,
+        2
+      ],
+      [
+        2,
+        -1,
+        -1,
+        9
+      ],
+      [
+        3,
+        -1,
+        -1,
+        2
+      ]
+    ],
+    "noise": 2
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_19",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 20,
+      "diagnostic_s": 25,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 75,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        2
+      ],
+      [
+        1,
+        25,
+        30,
+        1
+      ],
+      [
+        1,
+        75,
+        80,
+        2
+      ],
+      [
+        2,
+        -1,
+        -1,
+        5
+      ],
+      [
+        3,
+        -1,
+        -1,
+        6
+      ]
+    ],
+    "noise": 2
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_20",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 35,
+      "diagnostic_s": 10,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 75,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        5
+      ],
+      [
+        1,
+        45,
+        50,
+        5
+      ],
+      [
+        1,
+        95,
+        100,
+        9
+      ],
+      [
+        2,
+        -1,
+        -1,
+        6
+      ],
+      [
+        3,
+        -1,
+        -1,
+        5
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_21",
+      "remote_mw": 6.6,
+      "local_mw": 4.2,
+      "local_execution_s": 10,
+      "diagnostic_s": 10,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 45,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        9
+      ],
+      [
+        1,
+        65,
+        70,
+        5
+      ],
+      [
+        1,
+        115,
+        120,
+        5
+      ],
+      [
+        2,
+        -1,
+        -1,
+        2
+      ],
+      [
+        3,
+        -1,
+        -1,
+        4
+      ]
+    ],
+    "noise": 3
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_22",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 10,
+      "diagnostic_s": 25,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 75,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        9
+      ],
+      [
+        1,
+        25,
+        30,
+        2
+      ],
+      [
+        1,
+        75,
+        80,
+        3
+      ],
+      [
+        2,
+        -1,
+        -1,
+        2
+      ],
+      [
+        3,
+        -1,
+        -1,
+        11
+      ]
+    ],
+    "noise": 2
+  },
+  {
+    "split": "confirmation",
+    "config": {
+      "case_id": "confirmation_23",
+      "remote_mw": 12.0,
+      "local_mw": 4.2,
+      "local_execution_s": 20,
+      "diagnostic_s": 25,
+      "short_delay_s": 20,
+      "long_delay_s": 60,
+      "prior_age_s": 0,
+      "repair_s": 75,
+      "prior_weights": [
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "horizon_s": 180,
+      "query_s": 5,
+      "cancel_confirmation_s": 5,
+      "reset_s": 5,
+      "close_s": 15,
+      "acknowledgement_s": 5,
+      "time_step_s": 5
+    },
+    "belief": [
+      [
+        0,
+        -1,
+        -1,
+        9
+      ],
+      [
+        1,
+        25,
+        30,
+        5
+      ],
+      [
+        1,
+        75,
+        80,
+        11
+      ],
+      [
+        2,
+        -1,
+        -1,
+        8
+      ],
+      [
+        3,
+        -1,
+        -1,
+        10
+      ]
+    ],
+    "noise": 2
+  }
+]

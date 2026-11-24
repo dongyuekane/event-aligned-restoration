@@ -1,0 +1,50 @@
+{
+  "frozen_analytic": {
+    "n": 24,
+    "mean_kwh": 178.94411709553322,
+    "mean_regret_kwh": 2.319914577304937,
+    "max_regret_kwh": 28.974926032533375,
+    "exact_matches": 17,
+    "total_evaluation_s": 0.03209483250975609
+  },
+  "two_step": {
+    "n": 24,
+    "mean_kwh": 176.75362171014746,
+    "mean_regret_kwh": 0.12941919191919027,
+    "max_regret_kwh": 3.1060606060605664,
+    "exact_matches": 23,
+    "total_evaluation_s": 0.07376874890178442
+  },
+  "three_step": {
+    "n": 24,
+    "mean_kwh": 176.62420251822826,
+    "mean_regret_kwh": -5.921189464667502e-15,
+    "max_regret_kwh": 0.0,
+    "exact_matches": 24,
+    "total_evaluation_s": 0.08693716395646334
+  },
+  "full_dp": {
+    "n": 24,
+    "mean_kwh": 176.62420251822826,
+    "mean_regret_kwh": 0.0,
+    "max_regret_kwh": 0.0,
+    "exact_matches": 24,
+    "total_evaluation_s": 0.7199092069640756
+  },
+  "bound_root": {
+    "n": 24,
+    "mean_kwh": 176.62420251822826,
+    "mean_regret_kwh": 0.0,
+    "max_regret_kwh": 0.0,
+    "exact_matches": 24,
+    "total_evaluation_s": 0.576562250033021
+  },
+  "bound_recursive": {
+    "n": 24,
+    "mean_kwh": 176.62420251822826,
+    "mean_regret_kwh": 0.0,
+    "max_regret_kwh": 0.0,
+    "exact_matches": 24,
+    "total_evaluation_s": 0.1308908350765705
+  }
+}

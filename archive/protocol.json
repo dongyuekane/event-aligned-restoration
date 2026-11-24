@@ -1,0 +1,20 @@
+{
+  "frozen": "2026-11-14 before results",
+  "seed": 2026111405,
+  "n_development": 8,
+  "n_confirmation": 24,
+  "unit": "A physical timing/prior configuration; not a new electrical network.",
+  "noise": "Repeated independent diagnostic label flips with known probability 0.1,0.2,0.3; exact finite-tree expectation.",
+  "methods": [
+    "frozen_analytic",
+    "two_step",
+    "three_step",
+    "full_dp",
+    "bound_root",
+    "bound_recursive"
+  ],
+  "candidate_selection": "No tuning. Two predeclared exact lower-bound pruning variants. All comparisons reported.",
+  "baseline": "Identical transitions, available observations, command semantics and time grid. Exact full DP computes reference.",
+  "timing": "Fresh objects/caches, balanced randomized method order, three repetitions under shared lock; includes lower-bound model construction and decisions.",
+  "claims": "Application of established fully observable relaxation and branch-and-bound. Numeric exact-model equivalence, not a novel general theorem."
+}

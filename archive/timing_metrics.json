@@ -1,0 +1,32 @@
+{
+  "frozen_analytic": {
+    "n": 72,
+    "median_ms": 0.1310625,
+    "mean_ms": 0.1335329722222222
+  },
+  "two_step": {
+    "n": 72,
+    "median_ms": 2.880667,
+    "mean_ms": 2.9805480694444446
+  },
+  "three_step": {
+    "n": 72,
+    "median_ms": 3.308792,
+    "mean_ms": 3.593618638888889
+  },
+  "full_dp": {
+    "n": 72,
+    "median_ms": 25.7108955,
+    "mean_ms": 30.164736152777778
+  },
+  "bound_root": {
+    "n": 72,
+    "median_ms": 19.139916499999998,
+    "mean_ms": 24.58619152777778
+  },
+  "bound_recursive": {
+    "n": 72,
+    "median_ms": 5.4642085,
+    "mean_ms": 5.553354666666666
+  }
+}
